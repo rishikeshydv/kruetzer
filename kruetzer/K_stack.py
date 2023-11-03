@@ -26,10 +26,3 @@ class K_stack:
         print(output)
     
     
-sol = K_stack()
-sol.push(5)
-sol.push(6)
-sol.push(7)
-sol.push(8)
-sol.push(9)
-print(sol.display())
